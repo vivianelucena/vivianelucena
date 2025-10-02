@@ -15,7 +15,7 @@
 📚 Sou formada em **Design Gráfico** com experiência em UI Design, estudante de **Análise e Desenvolvimento de Sistemas**, e busco consolidar minha carreira na área de desenvolvimento.
 
 🛠 **Minhas habilidades**:
--  **Linguagens e Frameworks**: `Python`, `Java`, `JavaScript`, `HTML`, `CSS`. 
+- 💻 **Linguagens e Frameworks**: `Python`, `Java`, `JavaScript`, `HTML`, `CSS`. 
 - 🗄 **Banco de Dados**: `MySQL`.
 - ⚡ **Metodologias Ágeis**: `Scrum` e `Kanban` para entregas eficientes e de alto valor agregado.
 - 🖱️ **UI/UX**: Figma.
@@ -44,9 +44,9 @@
   <a href="https://www.linkedin.com/in/vivianelucena/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <!--<a href="mailto:vivianedelucenasilva@gmail.com" target="_blank">
+  <a href="mailto:vivianedelucenasilva@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>-->
+  </a>
 </div>
 
 ---
